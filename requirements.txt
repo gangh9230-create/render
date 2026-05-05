@@ -1,2 +1,11 @@
+# Web Framework
 fastapi
 uvicorn
+pydantic
+
+# Automation
+selenium
+undetected-chromedriver
+
+# Utilities
+typing-extensions
