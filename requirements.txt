@@ -9,4 +9,4 @@ undetected-chromedriver
 
 # Utilities
 typing-extensions
-distutils
+
